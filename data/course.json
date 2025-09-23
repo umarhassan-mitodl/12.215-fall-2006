@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Geography"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Surveying"
+    ]
+  ],
+  "legacy_uid": "018b08b1-bfb4-8f1d-851e-ec6be1db8933",
+  "instructors": {
+    "content": [
+      "6ef38acf-e916-092e-c56b-2cebac96b084"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "15501956-76ae-3b58-08be-a7dfd30d0b90",
+    "website": "12-215-modern-navigation-fall-2006"
+  },
+  "course_title": "Modern Navigation",
+  "course_description": "This course introduces the concepts and applications of navigation techniques using celestial bodies and satellite positioning systems such as the Global Positioning System (GPS). Topics include astronomical observations, radio navigation systems, the relationship between conventional navigation results and those obtained from GPS, and the effects of the security systems, Selective Availability, and anti-spoofing on GPS results. Laboratory sessions cover the use of sextants, astronomical telescopes, and field use of GPS. Application areas covered include ship, automobile, and aircraft navigation and positioning, including very precise positioning applications.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.215",
+  "course_image_thumbnail": {
+    "content": "64ee5170-50bc-e008-7ceb-14f938101c99",
+    "website": "12-215-modern-navigation-fall-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "105b4ab0-23a7-483c-a8b9-48b25f5fc1d3",
+  "site_short_id": "12.215-fall-2006",
+  "site_url_path": "courses/12-215-modern-navigation-fall-2006",
+  "title": "Course Metadata"
+}
