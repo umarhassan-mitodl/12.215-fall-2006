@@ -36,13 +36,13 @@ Definitions of the Types of Latitude and Longitude; Mathematical Relationship Be
 ({{% resource_link "10ed0c71-305c-d32a-f8b4-4720195d31b5" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "15f7005e-6191-4fe6-bbf9-011263743cad" "XYZ to Lat/Long/Height" %}}
+[XYZ to Lat/Long/Height](https://www.oc.nps.edu/oc2902w/coord/llhxyz.htm?source=post_page---------------------------)
 
-{{% resource_link "0a16ab2d-f66c-42d0-8f04-9fbf80f089c5" "Geodetic Datums" %}}
+[Geodetic Datums](https://www.e-education.psu.edu/geog862/book/export/html/1669)
 
-{{% resource_link "fbfad928-bcb3-4d2e-ad97-cbe609d25559" "Moments of Inertia" %}}
+[Moments of Inertia](http://hyperphysics.phy-astr.gsu.edu/hbase/mi.html)
 
-{{% resource_link "e613f840-24e6-48ca-9f6d-f7dcd3c9f2e6" "International Earth Rotation and Reference Systems Service" %}}
+[International Earth Rotation and Reference Systems Service](http://www.iers.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -51,7 +51,7 @@ Height Definitions, Methods for Determining Heights, Spirit Leveling and Trigono
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "9c7212a8-eb59-e31f-a12e-8491667da766" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "e407f116-6058-4228-b9f1-3cdd878e6ca6" "NGS Geoid Site" %}}
+[NGS Geoid Site](http://www.ngs.noaa.gov/cgi-bin/GEOID_STUFF/geoid99_prompt1.prl)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -63,7 +63,7 @@ Derivations and Examples
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "b49ef234-eee6-8c7a-9bd5-423d0b9ef990" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "38dd36b9-6485-4623-aa5a-8b3e086bff41" "Spherical Trigonometry" %}}
+[Spherical Trigonometry](http://mathworld.wolfram.com/SphericalTrigonometry.html)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -71,7 +71,7 @@ Determination of Latitude and Longitude Using Astronomical Methods
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "d0abc060-b2e3-0625-ec40-b4fa497746be" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a92ca4e8-1cfe-44b3-bdbb-f9c7163f2798" "Equation of Time" %}}
+[Equation of Time](http://www.astronomynotes.com/nakedeye/s9.htm)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -80,17 +80,17 @@ Almanacs in Paper and Electronic Form
 ({{% resource_link "044ab491-bafa-c0b0-fee4-ce772cbff4ad" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "64fd544b-3a65-4057-ac1b-73a7f639a7f7" "Rise, Set, and Twilight Definitions" %}}
+[Rise, Set, and Twilight Definitions](http://www.usno.navy.mil/USNO/astronomical-applications/astronomical-information-center/rise-set-twi-defs)
 
-{{% resource_link "872c9309-3f95-41ff-8829-3621f7220db1" "Inconstant Moon" %}}
+[Inconstant Moon](http://www.fourmilab.ch/earthview/moon_ap_per.html)
 
-{{% resource_link "0ea6d865-5c23-4caa-aae8-6c8f2ba5efe0" "US Naval Observatory Astronomical Data Services" %}}
+[US Naval Observatory Astronomical Data Services](http://www.usno.navy.mil/USNO/astronomical-applications/data-services)
 
-{{% resource_link "f219ac2e-28ec-4647-bb4c-f5626f23d1a7" "Web Version of MICA" %}}
+[Web Version of MICA](http://www.usno.navy.mil/USNO/astronomical-applications/software-products/mica)
 
-{{% resource_link "675c3624-f6f1-45a1-9da0-a72893f69fb9" "Navigator Light" %}}
+[Navigator Light](http://www.tecepe.com.br/nav/inav_c11.htm)
 
-{{% resource_link "498657d5-1f13-4e63-994c-34df5967498b" "The Online Nautical Almanac" %}}
+[The Online Nautical Almanac](http://www.tecepe.com.br/scripts/AlmanacPagesISAPI.isa)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -100,17 +100,17 @@ Dead Reckoning and Sextants
 ({{% resource_link "2fab2223-4882-06e2-c12d-9b84f4e4b91c" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "6ba2408f-750e-41e5-8680-9a2ed2f3f848" "The Road to the Magnetic North Pole" %}}
+[The Road to the Magnetic North Pole](http://geo.phys.uit.no/articl/roadto.html)
 
-{{% resource_link "07fb9e9f-32ee-41f9-857d-c8dd0611c4de" "Field Lines for a Magnetic Dipole" %}}
+[Field Lines for a Magnetic Dipole](http://www.mathpages.com/home/kmath694/kmath694.htm)
 
-{{% resource_link "0258c985-4fdb-4ed0-aab9-46a1614a35b3" "Geomagnetism" %}}
+[Geomagnetism](https://www.nature.com/subjects/geomagnetism)
 
  Nathaniel Bowditch. *The American Practical Navigator*. Wallabycreek, 2011. ISBN: 9781921936746.
 
-{{% resource_link "ada04506-0b26-4179-a6f4-47739e6aee2b" "How to Read Vernier Calipers" %}}
+[How to Read Vernier Calipers](http://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=52)
 
-{{% resource_link "f0bca101-932f-4ca1-90ae-16d4480d9723" "Vernier" %}}
+[Vernier](http://www.tpub.com/math1/7e.htm)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -119,7 +119,7 @@ Review of Linear Algebra Covering Vectors and Matrices, Solving Linear Equations
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "992efdb2-fd62-0f0e-eda1-1732617ee5a9" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-Square Matrix ({{% resource_link "24f2070e-968e-4129-9faf-73535f5056d8" "M" %}})
+Square Matrix ([M](http://web.mit.edu/18.06/www/Course-Info/Mfiles/slu.m))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -136,13 +136,13 @@ Map Projections of Different Types and The Mathematics Behind Some Projections
 ({{% resource_link "a33cd630-4e0e-43da-9b76-3fe8c762fde2" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "32a26312-3f96-4f82-9d27-273239288c3c" "MapTools" %}}
+[MapTools](http://www.maptools.com/UsingUTM/)
 
-{{% resource_link "302730c3-3ed9-4610-8b81-7e084d667be0" "Map Projection Overview" %}}
+[Map Projection Overview](https://gisgeography.com/map-projections/)
 
-{{% resource_link "296c35a6-b0a1-49a4-ae7a-90427eff2400" "Round Earth, Flat Maps" %}}
+[Round Earth, Flat Maps](https://www.axismaps.com/guide/general/map-projections/)
 
-{{% resource_link "5e22caec-a9b5-427f-8bbf-0d7e16ec95f3" "Map Projection" %}}
+[Map Projection](http://mathworld.wolfram.com/MapProjection.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -225,7 +225,7 @@ Atmosphere Delay Effects
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "8ed8b40a-2399-47e9-703c-05c22a1fda5d" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "05e133eb-8b8d-4c64-a656-fb9f985a0d7f" "The Height of the Tropopause" %}}
+[The Height of the Tropopause](http://www-das.uwyo.edu/~geerts/cwx/notes/chap01/tropo.html)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -242,11 +242,11 @@ Satellite Orbit Representation and Sources of Information about Orbits
 ({{% resource_link "37fb8d2b-71b4-7907-e81a-54c35d39017b" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-GPS Interface Control Document ({{% resource_link "03be698f-511e-4ac4-9f0a-84f4e9d433e6" "PDF" %}})#
+GPS Interface Control Document ([PDF](http://geoweb.mit.edu/~tah/icd200c123.pdf))#
 
-{{% resource_link "296d56a6-d9ed-4ddd-b1e6-762e0fea14e1" "RINEX: The Receiver Independent Exchange Format" %}}
+[RINEX: The Receiver Independent Exchange Format](http://www.gisresources.com/rinex-receiver-independent-exchange-format/)
 
-{{% resource_link "65f7e5a3-0de7-4f7a-bad0-7dcee0564603" "IGS Products" %}}
+[IGS Products](http://www.igs.org/products)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -268,12 +268,12 @@ Applications of GPS
 ({{% resource_link "10913327-58d5-b5ac-86de-dfa66d033cef" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3d3a4cdf-be58-4b86-88d7-bfcef86ff5e2" "GPS Applications Exchange" %}}
+[GPS Applications Exchange](http://www.gps.gov/applications/timing/)
 
-{{% resource_link "e6a1d299-eaf3-4694-91d5-edfeefe23d07" "GPS World" %}}
+[GPS World](http://www.gpsworld.com/gpsworld/)
 
-{{% resource_link "44633cfd-d10b-4d51-b595-e50c8dfaaedc" "GAMIT/GLOBK Matlab Tools" %}}
+[GAMIT/GLOBK Matlab Tools](http://geoweb.mit.edu/~tah/GGMatlab/)
 
-{{% resource_link "06bae3a0-4ff2-46d0-8c3f-b7df04983ac0" "Southern California Integrated GPS Network (SCIGN)" %}}
+[Southern California Integrated GPS Network (SCIGN)](http://www.scign.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
